@@ -1,2 +1,2 @@
 # all-around-athletes
-Modern sports agency landing page built with next.js and tailwind css
+Modern sports agency landing page built with a mobile-first approach.
